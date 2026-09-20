@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OSSpriteTool.vcxproj" Id="ecd9f9a5-0e8c-4ba9-974e-ceceb0b1c6e6" />
+</Solution>

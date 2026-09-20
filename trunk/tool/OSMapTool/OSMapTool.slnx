@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../../common/OSClientCommon/OSClientCommon.vcxproj" Id="089fc561-c531-4fd9-ad54-5b42ccee699b" />
+  <Project Path="OSMapTool.vcxproj" Id="0459425a-cea8-491b-952e-dfeac4a0bdb5" />
+</Solution>
