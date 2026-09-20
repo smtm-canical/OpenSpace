@@ -15,3 +15,5 @@ x86/
 # Zed
 .zed
 
+# md
+./trunk/AGENTS.md
